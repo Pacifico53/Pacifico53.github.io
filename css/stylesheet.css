@@ -89,5 +89,7 @@ body a:hover {
 }
 
 .apitest div {
-  background-color: #27ae60 ;
+  background-color: #EFF1F5;
+  font-family: 'Roboto Mono', monospace;
+  color: #65737E;
 }
