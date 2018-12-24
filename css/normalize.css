@@ -90,6 +90,8 @@ textarea {
 
 body {
     margin: 0;
+    background-image: url(../clearsky.png);
+    background-size: cover;
 }
 
 /* ==========================================================================
